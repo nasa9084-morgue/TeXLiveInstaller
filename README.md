@@ -1,2 +1,2 @@
 # TeXLiveInstaller
-TeXLive Install Script for Ubuntu
+TeXLive Install Script for ubuntu or arch linux
