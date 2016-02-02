@@ -1,4 +1,4 @@
-#!/usr/sh
+#!/usr/bin/sh
 
 function vecho() {
     if [ $verbose_flg -eq 0 ]
